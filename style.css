@@ -123,6 +123,9 @@ form .name-details .field:last-child{
     position: absolute;
     right: 15px;
     color: #ccc;
+    top: 70%;
+    transform: translateY(-50%);
+    cursor:pointer;
 
 }
 
